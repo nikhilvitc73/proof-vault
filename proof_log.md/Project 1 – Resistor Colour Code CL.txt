@@ -1,0 +1,22 @@
+Project 1 – Resistor Colour Code CLI (Python)
+
+Date: 15 July 2025  
+GitHub: https://github.com/nikhilvitc73/ece-infra-labs/tree/main/resistor-color-cli
+
+What I made:
+I made a small Python program that asks the four colours on a resistor and gives the resistance value and tolerance.  
+If the colours are wrong, it asks again.  
+
+Why I made it:
+This is my first beginner project.  
+I made this because I wanted to start coding and connect it with electronics.  
+This is also part of my Semester 1 infra plan.  
+
+Mistakes I made:
+- First I wrote wrong formula with string and numbers
+- I didn’t know how to check inputs properly
+- Push to GitHub failed, I used force push to fix it
+- I got confused about PyCharm folder setup in the beginning  
+
+Status:
+Completed and uploaded to GitHub. It is working.
